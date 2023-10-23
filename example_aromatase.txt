@@ -1,0 +1,5 @@
+CCn1c(C(c2ccc(F)cc2)n2ccnc2)c(C)c2cc(Br)ccc21 CHEMBL431859
+CCn1cc(C(c2ccc(F)cc2)n2ccnc2)c2ccccc21 CHEMBL113637
+Clc1ccccc1Cn1cc(Cn2ccnc2)c2ccccc21 CHEMBL112021
+CCn1ccc2cc(C(c3ccc(F)cc3)n3ccnc3)ccc21 CHEMBL41761
+Cn1cc(C(c2ccc(F)cc2)n2ccnc2)c2cc(Br)ccc21 CHEMBL111868
