@@ -1,4 +1,3 @@
-###### Ramakrishnan_Vaibhav_Research.pdf #####
 
 This file contains the complete research done on this project highlighting all the significant steps.
 
