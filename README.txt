@@ -1,4 +1,3 @@
-![logo](https://github.com/user-attachments/assets/2f395a6e-fbd8-48dc-9293-b1dbae9d0409)
 
 This file contains the complete research done on this project highlighting all the significant steps.
 
